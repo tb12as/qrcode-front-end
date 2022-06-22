@@ -1,6 +1,6 @@
-# qrcode
+# QR Code (Flutter)
 
-A new Flutter project.
+Generate QR Code using rest-full api. Laravel back-end repo : [tb12as/qr-generator](https://github.com/tb12as/qr-generator)
 
 ## Getting Started
 
